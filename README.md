@@ -6,7 +6,7 @@ php artisan serve
 ```
 Open in browser: http://127.0.0.1:8000/upload
 
-for testing use console in google chrome 
+for testing use a google chrome console
 
 start uploading file
 
