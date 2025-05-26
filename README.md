@@ -3,3 +3,4 @@
 ```bash
 cd test
 php artisan serve
+```
