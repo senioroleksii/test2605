@@ -1,1 +1,5 @@
-# test2605
+## 🚀 Start Project
+
+```bash
+cd test
+php artisan serve
